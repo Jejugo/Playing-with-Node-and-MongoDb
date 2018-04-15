@@ -1,2 +1,3 @@
-# Playing-with-Node-and-MongoDb
-Starting to get initial concepts of working with MongoDb. The functions avaliable in this project allow us to insert, save, update and delete an object in the database.
+# mongodb-playlist
+Course files for the MongoDB tutorials playlist on The Net Ninja YouTube channel.
+Each branch in this repository corresponds to the ending code of a particular video.

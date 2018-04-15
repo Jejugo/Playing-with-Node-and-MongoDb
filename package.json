@@ -1,0 +1,24 @@
+{
+  "name": "mongodbplaylist",
+  "version": "1.0.0",
+  "description": "studying to learn mondogb",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamshaunjp/mongodb-playlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamshaunjp/mongodb-playlist/issues"
+  },
+  "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "mongoose": "^4.11.4",
+    "nodemon": "^1.11.0"
+  }
+}
